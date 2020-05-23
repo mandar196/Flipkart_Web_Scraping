@@ -15,5 +15,8 @@ Selenium:  Selenium is a web testing library. It is used to automate browser act
 BeautifulSoup: Beautiful Soup is a Python package for parsing HTML and XML documents. It creates parse trees that is helpful to extract the data easily.
 Pandas: Pandas is a library used for data manipulation and analysis. It is used to extract the data and store it in the desired format.
 
+![scrn2](https://user-images.githubusercontent.com/61036755/82722612-ef08da00-9ce5-11ea-9cbc-e5f0bcb88dc2.png)
+![details](https://user-images.githubusercontent.com/61036755/82722613-f16b3400-9ce5-11ea-9f69-d156ea9b2309.png)
+
 
 
