@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat May 23 08:45:27 2020
-
-@author: Acer
-"""
-
 
 from selenium import webdriver
 from bs4 import BeautifulSoup
